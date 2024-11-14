@@ -1,4 +1,6 @@
-## Hi there 👋
+## Alison is here!
+
+Hello, My name is Alison. I'm doing Python. Currently I'm PhD student on Haskayne School of Business. 
 
 <!--
 **alisongbs/alisongbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
