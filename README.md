@@ -6,11 +6,7 @@ Hello, My name is Alison. I'm doing Digital Marketing. Currently I'm PhD student
 
 - 🌟 [Awesome GTM Engineering](https://github.com/alisongbs/awesome-gtm-engineering) - A curated list of tools, libraries, frameworks, and resources for GTM Engineering.
 - 🌟 [Awesome Content Marketing](https://github.com/alisongbs/awesome-content-marketing) - A curated list of tools, platforms, strategies, and resources for content marketing.
-- 🌟 [Awesome AI SEO](https://github.com/alisongbs/awesome-ai-seo) - A curated list of AI SEO tools and resources
-- 🌟 [Awesome AI Copywriting](https://github.com/alisongbs/awesome-ai-copyrighting) - A curated list of AI tools, libraries, prompts, and resources for copywriting
-- 🌟 [Awesome Developer Marketing](https://github.com/alisongbs/awesome-dev-marketing) - A curated list of tools, strategies, platforms, and resources for developer marketing
-- 🌟 [Awesome Email Marketing](https://github.com/alisongbs/awesome-email-marketing) - A curated list of tools, templates, platforms, and resources for email marketing, covering newsletter creation, automation, analytics, deliverability, AI copywriting, and more.
-
+- 🌟 [Awesome AI SEO](https://github.com/alisongbs/awesome-ai-seo) 🌟 [Awesome AI Copywriting](https://github.com/alisongbs/awesome-ai-copyrighting)  🌟 [Awesome Developer Marketing](https://github.com/alisongbs/awesome-dev-marketing)  🌟 [Awesome Email Marketing](https://github.com/alisongbs/awesome-email-marketing)
 
 <!--
 **alisongbs/alisongbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
